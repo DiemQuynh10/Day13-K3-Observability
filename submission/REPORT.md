@@ -4,7 +4,7 @@
 
 - Tên nhóm: DiemQuynh10 (làm solo)
 - Repository URL: https://github.com/DiemQuynh10/Day13-K3-Observability
-- Commit SHA cuối: <!-- TODO: điền sau khi commit lần cuối, chạy `git rev-parse HEAD` -->
+- Commit SHA cuối: `4692df0` (4 commit tách vai trò: `b0ebb25` Logging & PII, `d01225e` Tracing & Prompt Version, `dade0b1` Dashboard/SLO/Alert, `4692df0` Report)
 - Thành viên và vai trò: Diễm Quỳnh — kiêm toàn bộ 4 vai trò (Logging & PII; Tracing & Prompt Version; Dashboard, SLO & Alert; Incident, Report & Demo), theo đúng quy định "một người có thể giữ nhiều vai trò khi làm solo/nhóm ít người" (README.md).
 
 ## 2. Kết quả kỹ thuật
